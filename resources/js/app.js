@@ -1,5 +1,5 @@
 import './bootstrap';
-import './custom';
+import './welcomeV2';
 
 import Alpine from 'alpinejs';
 
