@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Auth;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('welcomes');
 });
 
 Route::get('/google-auth/redirect', function () {
